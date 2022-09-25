@@ -1,3 +1,3 @@
 module github.com/webermarci/is
 
-go 1.18
+go 1.19
